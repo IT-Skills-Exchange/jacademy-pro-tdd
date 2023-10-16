@@ -1,4 +1,4 @@
-# Java Academy (Middle - Senior)
+# Java Academy Pro (Middle - Senior)
 
 Version: **1.1**
 
