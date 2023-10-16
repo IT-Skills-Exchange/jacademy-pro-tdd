@@ -1,0 +1,7 @@
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Java Academy Pro
+description: JAcademy pro is the project that teaches to program in the java language and to think as an engineer.
+show_downloads: false
+#google_analytics: Your Google Analytics tracking ID
